@@ -456,10 +456,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			/gzEXKlB8Kvz/XPQvzCizoZ+PJI=
+			pC5vDLjGsdzfdLjKX9ybVxxNU/g=
 			</data>
 			<key>requirement</key>
-			<string>identifier manifest and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = Y69CWUC25B</string>
+			<string>identifier manifest and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: shirokumakun@me.com (922KU5UM3K)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 	</dict>
 	<key>rules</key>
